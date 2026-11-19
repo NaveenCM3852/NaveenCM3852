@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="420" viewBox="0 0 1600 420">
+<defs>
+ <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#05070a"/><stop offset=".55" stop-color="#111722"/><stop offset="1" stop-color="#05070a"/></linearGradient>
+ <linearGradient id="silver" x2="0" y2="1"><stop stop-color="#f1f3f6"/><stop offset=".5" stop-color="#9ba5b3"/><stop offset="1" stop-color="#596473"/></linearGradient>
+ <radialGradient id="glow"><stop stop-color="#465568" stop-opacity=".35"/><stop offset="1" stop-color="#05070a" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="1600" height="420" fill="url(#bg)"/>
+<ellipse cx="1110" cy="180" rx="480" ry="280" fill="url(#glow)"/>
+<g fill="none" stroke="#8996a8" stroke-opacity=".17" stroke-width="2">
+ <path d="M0 290 160 238 280 270 430 190 590 278 760 210 930 282 1100 180 1280 270 1440 220 1600 265"/>
+ <path d="M0 330 180 280 350 315 540 240 720 330 900 260 1080 320 1280 230 1460 300 1600 270"/>
+ <circle cx="1320" cy="205" r="90"/><circle cx="1320" cy="205" r="125"/><circle cx="1320" cy="205" r="160"/>
+ <path d="M1120 205h400M1320 5v400"/>
+</g>
+<g fill="#aab5c4" fill-opacity=".45"><circle cx="1320" cy="205" r="5"/><circle cx="1160" cy="205" r="3"/><circle cx="1480" cy="205" r="3"/></g>
+<text x="100" y="145" fill="url(#silver)" font-family="Arial,Helvetica,sans-serif" font-size="48" letter-spacing="8">NAVEEN C M</text>
+<text x="104" y="205" fill="#aab4c2" font-family="Arial,Helvetica,sans-serif" font-size="20" letter-spacing="4">ELECTRONICS  /  SOFTWARE  /  ENGINEERING</text>
+<text x="104" y="255" fill="#d5dbe4" font-family="Arial,Helvetica,sans-serif" font-size="17" letter-spacing="5">BUILD  /  LEARN  /  IMPROVE</text>
+<path d="M100 315h450" stroke="#8996a8" stroke-opacity=".5"/>
+<text x="100" y="355" fill="#778496" font-family="Arial,Helvetica,sans-serif" font-size="14" letter-spacing="3">PRACTICAL IDEAS. REAL-WORLD SYSTEMS.</text>
+</svg>
