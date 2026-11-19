@@ -1,64 +1,57 @@
-<!-- Profile README: Naveen C M | NaveenCM3852 -->
+<!-- Profile README | Naveen C M -->
 
 <div align="center">
-
-# NAVEEN C M
-
-**Electronics & Communication Engineering Graduate · Developer · Independent Builder**
-
-Building practical software and hardware projects through curiosity, experimentation and iteration.
-
-[![GitHub](https://img.shields.io/badge/GitHub-NaveenCM3852-161b22?style=flat-square&logo=github)](https://github.com/NaveenCM3852)
-[![KTU Calc](https://img.shields.io/badge/Live_Project-KTU_Calc-161b22?style=flat-square&logo=googlechrome)](https://naveencm3852.github.io/ktu-calculator/)
-
+  <img src="profile-banner.svg" alt="Naveen C M — Electronics, Software and Engineering" width="100%" />
 </div>
+
+<h1 align="center">Naveen C M</h1>
+<p align="center">
+  <strong>Electronics & Communication Engineering Graduate</strong><br/>
+  Building practical software and hardware projects.
+</p>
+
+<p align="center">
+  <a href="https://github.com/NaveenCM3852">GitHub</a> ·
+  <a href="https://naveencm3852.github.io/ktu-calculator/">KTU Calculator — Live Project</a>
+</p>
 
 ---
 
 ## About
 
-I'm an Electronics & Communication Engineering graduate interested in the space where software meets real-world systems.
+I’m an Electronics & Communication Engineering graduate interested in building useful technology—from software tools to connected hardware systems.
 
-My work and learning currently span:
-- Web application development and practical tools.
-- Android applications and AI-assisted workflows.
-- Embedded systems, electronics and IoT.
-- Building, testing and improving products around real problems.
+I enjoy taking an idea from concept to implementation, testing it in the real world, and improving it through iteration.
 
-## Selected projects
+## Selected work
 
-| Project | Overview | Availability |
-|---|---|---|
-| [KTU Calculator](https://github.com/NaveenCM3852/ktu-calculator) | Web-based SGPA and CGPA calculator with target planning, percentage conversion and local history for KTU students. | Public · [Live demo](https://naveencm3852.github.io/ktu-calculator/) |
-| [CHRONOS](https://github.com/NaveenCM3852/chronos) | Personal Android assistant project exploring contextual assistance, scheduling and controlled integrations. | Private · In development |
-| [SkillBridge](https://github.com/NaveenCM3852/skillbridge-v1) | Marketplace frontend concept connecting workers, employers and opportunities, built with Next.js and TypeScript. | Private · In development |
+### [KTU Calculator](https://github.com/NaveenCM3852/ktu-calculator)
+A web-based academic calculator for KTU students, with SGPA/CGPA calculation, target planning, percentage conversion and local history.
 
-## Technical toolkit
+**Live:** https://naveencm3852.github.io/ktu-calculator/
 
-**Web development**  
-HTML · CSS · JavaScript · React · Next.js · TypeScript · Tailwind CSS
+### CHRONOS — Personal Android Assistant
+An ongoing personal project exploring contextual assistance, reminders, scheduling and controlled integrations. Currently under private development; features are being built and tested incrementally.
 
-**Electronics & embedded**  
-Electronics fundamentals · Arduino · Embedded systems · C (basic)
+### Engineering projects
+- **Autonomous Water Surface Cleaning Boat** — A catamaran-style prototype designed for surface-waste collection, with onboard sensing, computer-vision-based detection and manual control.
+- **Vision Arm** — A robotic waste-segregation prototype designed to identify material categories and sort waste.
 
-**Programming & tools**  
-Python (basic) · Node.js · Git · GitHub · MATLAB · Figma · Google Gemini
+## Areas I work in
+
+- **Electronics & embedded systems** — circuit building, microcontrollers and hardware integration.
+- **IoT & connected devices** — combining sensors, software and physical systems.
+- **Application development** — building practical tools and Android-focused projects.
+- **AI-assisted development** — integrating AI capabilities where they solve a real problem.
 
 ## Current focus
 
-- Developing CHRONOS incrementally, with reliability and privacy as priorities.
-- Improving software architecture, testing and documentation.
-- Strengthening full-stack and embedded development fundamentals.
-
-## Connect
-
-- GitHub: [@NaveenCM3852](https://github.com/NaveenCM3852)
-- Portfolio / live project: [KTU Calculator](https://naveencm3852.github.io/ktu-calculator/)
+- Developing CHRONOS with an emphasis on reliability, privacy and controlled automation.
+- Improving software architecture and project documentation.
+- Building and documenting practical electronics and embedded-system projects.
 
 ---
 
-<div align="center">
-
-*Build with curiosity. Improve with evidence.*
-
-</div>
+<p align="center">
+  <em>Build with curiosity. Improve with evidence.</em>
+</p>
