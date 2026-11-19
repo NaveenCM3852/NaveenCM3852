@@ -43,7 +43,7 @@ An ongoing native Android assistant project designed around reminders, smart sch
 
 ## Other projects
 
-### [Autonomous Water Surface Cleaning Boat](https://github.com/NaveenCM3852)
+### Autonomous Water Surface Cleaning Boat
 A catamaran-style engineering project designed to collect floating waste. The system combines onboard sensing, GPS/IMU-based navigation support, computer-vision detection and manual control.
 
 ### Vision Arm — Waste Segregation
