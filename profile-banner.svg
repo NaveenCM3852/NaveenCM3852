@@ -1,21 +1,20 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1600" height="420" viewBox="0 0 1600 420">
 <defs>
- <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#05070a"/><stop offset=".55" stop-color="#111722"/><stop offset="1" stop-color="#05070a"/></linearGradient>
- <linearGradient id="silver" x2="0" y2="1"><stop stop-color="#f1f3f6"/><stop offset=".5" stop-color="#9ba5b3"/><stop offset="1" stop-color="#596473"/></linearGradient>
- <radialGradient id="glow"><stop stop-color="#465568" stop-opacity=".35"/><stop offset="1" stop-color="#05070a" stop-opacity="0"/></radialGradient>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#050608"/><stop offset=".55" stop-color="#11151b"/><stop offset="1" stop-color="#050608"/></linearGradient>
+  <linearGradient id="metal" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#f5f6f8"/><stop offset=".48" stop-color="#aeb6c1"/><stop offset="1" stop-color="#626c79"/></linearGradient>
+  <radialGradient id="halo"><stop stop-color="#758295" stop-opacity=".18"/><stop offset="1" stop-color="#050608" stop-opacity="0"/></radialGradient>
 </defs>
 <rect width="1600" height="420" fill="url(#bg)"/>
-<ellipse cx="1110" cy="180" rx="480" ry="280" fill="url(#glow)"/>
-<g fill="none" stroke="#8996a8" stroke-opacity=".17" stroke-width="2">
- <path d="M0 290 160 238 280 270 430 190 590 278 760 210 930 282 1100 180 1280 270 1440 220 1600 265"/>
- <path d="M0 330 180 280 350 315 540 240 720 330 900 260 1080 320 1280 230 1460 300 1600 270"/>
- <circle cx="1320" cy="205" r="90"/><circle cx="1320" cy="205" r="125"/><circle cx="1320" cy="205" r="160"/>
- <path d="M1120 205h400M1320 5v400"/>
+<ellipse cx="1270" cy="210" rx="390" ry="300" fill="url(#halo)"/>
+<g fill="none" stroke="#9aa6b6" stroke-opacity=".22">
+  <circle cx="1280" cy="210" r="105"/><circle cx="1280" cy="210" r="145"/><circle cx="1280" cy="210" r="185"/>
+  <path d="M1050 210h460M1280 0v420M1090 90l380 240M1090 330l380-240"/>
+  <path d="M0 350 210 300 390 335 580 265 760 330 930 270 1080 315"/>
 </g>
-<g fill="#aab5c4" fill-opacity=".45"><circle cx="1320" cy="205" r="5"/><circle cx="1160" cy="205" r="3"/><circle cx="1480" cy="205" r="3"/></g>
-<text x="100" y="145" fill="url(#silver)" font-family="Arial,Helvetica,sans-serif" font-size="48" letter-spacing="8">NAVEEN C M</text>
-<text x="104" y="205" fill="#aab4c2" font-family="Arial,Helvetica,sans-serif" font-size="20" letter-spacing="4">ELECTRONICS  /  SOFTWARE  /  ENGINEERING</text>
-<text x="104" y="255" fill="#d5dbe4" font-family="Arial,Helvetica,sans-serif" font-size="17" letter-spacing="5">BUILD  /  LEARN  /  IMPROVE</text>
-<path d="M100 315h450" stroke="#8996a8" stroke-opacity=".5"/>
-<text x="100" y="355" fill="#778496" font-family="Arial,Helvetica,sans-serif" font-size="14" letter-spacing="3">PRACTICAL IDEAS. REAL-WORLD SYSTEMS.</text>
+<g fill="#c3ccd8" fill-opacity=".55"><circle cx="1280" cy="210" r="5"/><circle cx="1135" cy="210" r="3"/><circle cx="1425" cy="210" r="3"/></g>
+<text x="100" y="158" fill="url(#metal)" font-family="Arial,Helvetica,sans-serif" font-size="66" font-weight="700" letter-spacing="5">NCM</text>
+<text x="104" y="218" fill="#d2d8e0" font-family="Arial,Helvetica,sans-serif" font-size="23" letter-spacing="3">NAVEEN C M</text>
+<text x="104" y="270" fill="#9ca8b8" font-family="Arial,Helvetica,sans-serif" font-size="18" letter-spacing="3">ELECTRONICS  /  EMBEDDED SYSTEMS  /  SOFTWARE</text>
+<path d="M104 310h520" stroke="#8d99a9" stroke-opacity=".55"/>
+<text x="104" y="350" fill="#778392" font-family="Arial,Helvetica,sans-serif" font-size="14" letter-spacing="3">PRACTICAL ENGINEERING. CONTINUOUS IMPROVEMENT.</text>
 </svg>
