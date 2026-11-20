@@ -1,74 +1,59 @@
 <!-- GitHub Profile README | Naveen C M -->
 
-<div align="center">
-  <img src="profile-banner.svg" alt="NCM — Electronics, Embedded Systems and Software" width="100%" />
-</div>
+<h2>👋 Hi, I'm Naveen</h2>
 
-<h1 align="center">Naveen C M</h1>
+Electronics & Communication Engineering graduate interested in building practical technology across Android, embedded systems and connected devices.
 
-<p align="center">
-  <strong>Electronics & Communication Engineering</strong><br/>
-  Engineering practical solutions across hardware, software and connected systems.
-</p>
-
-<p align="center">
-  <a href="https://github.com/NaveenCM3852">GitHub</a> ·
-  <a href="https://github.com/NaveenCM3852/chronos">CHRONOS</a>
-</p>
+I enjoy taking ideas from circuit-level prototypes to working software — understanding the problem, building a solution, testing it and improving it.
 
 ---
 
-## Profile
+## 🚀 Expertise
 
-I’m an Electronics & Communication Engineering graduate interested in designing and building useful technology. My work spans Android application development, embedded systems, IoT and hardware prototyping.
+My interests and project experience include Android application development, embedded systems, IoT and hardware prototyping.
 
-I enjoy the complete engineering process: understanding a problem, building a working solution, testing it, and refining the result.
+I’m currently developing **CHRONOS**, a personal Android assistant focused on useful reminders, scheduling and user-controlled integrations. I’m also interested in computer vision, robotics and connected hardware.
 
-## Featured project
+## 💻 Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
+  <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi" />
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
+
+## 🛠️ Featured Work
 
 ### CHRONOS — Personal Android Assistant
+An ongoing native Android project exploring smart scheduling, event-driven reminders, local data storage and controlled messaging integrations.
 
-An ongoing native Android assistant project designed around reminders, smart scheduling, contextual assistance and controlled messaging integrations. CHRONOS combines a local-first data layer with Android system services, aiming to make everyday assistance useful without unnecessary background activity.
-
-**Engineering highlights**
-- Smart scheduling with an explicit review and handoff flow to Android Clock, plus date-specific fallback options.
-- Event-driven reminders using Android alarm services, with reboot recovery and battery-conscious background scheduling.
-- Persistent local data using Room and non-destructive database migrations.
-- WhatsApp notification-based workflows and Telegram integration paths, with user-controlled permissions and settings.
-- A custom monochrome, frosted-glass interface and an optional, user-enabled wake engine.
-
-<sub>CHRONOS is actively being developed. Its source repository is currently private.</sub>
-
----
-
-## Other projects
+[View CHRONOS repository](https://github.com/NaveenCM3852/chronos)
 
 ### Autonomous Water Surface Cleaning Boat
-A catamaran-style engineering project designed to collect floating waste. The system combines onboard sensing, GPS/IMU-based navigation support, computer-vision detection and manual control.
+A catamaran-style project designed to collect floating waste, combining GPS/IMU navigation support, onboard sensing, computer-vision detection and manual control.
 
 ### Vision Arm — Waste Segregation
 A robotic-arm prototype designed to identify waste material categories and support automated segregation.
 
-### [KTU Calculator](https://github.com/NaveenCM3852/ktu-calculator)
-A browser-based academic tool for KTU students, featuring SGPA and CGPA calculations, target planning, percentage conversion and local calculation history.
+### KTU Calculator
+A browser-based academic tool for SGPA, CGPA and target calculations.
 
-**Live application:** [naveencm3852.github.io/ktu-calculator](https://naveencm3852.github.io/ktu-calculator/)
+[Open KTU Calculator](https://naveencm3852.github.io/ktu-calculator/)
 
-## Technical areas
+## 🌱 Currently Exploring
 
-- **Electronics & embedded systems:** circuit prototyping, microcontrollers, sensor integration and hardware interfacing.
-- **IoT & connected devices:** connecting physical systems with software and data.
-- **Software development:** Android application development, application logic and web interfaces.
-- **Tools & platforms:** Kotlin, Arduino, Raspberry Pi, Git and MATLAB; practical programming with C, Python and JavaScript.
+- Android development and application architecture
+- Embedded systems and sensor integration
+- IoT systems and practical hardware-software integration
+- Building, testing and documenting complete projects
 
-## Current direction
+## 🌐 Connect
 
-- Advancing CHRONOS through implementation, testing and technical documentation.
-- Improving software architecture and Android development practices.
-- Building and documenting practical electronics and embedded-system projects.
+[![GitHub](https://img.shields.io/badge/GitHub-NaveenCM3852-181717?style=for-the-badge&logo=github)](https://github.com/NaveenCM3852)
 
 ---
 
-<p align="center">
-  <em>Build with curiosity. Improve through testing.</em>
-</p>
+<sub>Build with curiosity. Improve through testing.</sub>
